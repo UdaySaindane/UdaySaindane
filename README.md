@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Uday Saindane
 
 🎓 Final Year Computer Engineering Student
-💻 Full Stack Developer | MERN & Java Enthusiast 🚀 
+💻 Full Stack Developer | MERN, Java & Python-Django Enthusiast 🚀
 
 ---
 
