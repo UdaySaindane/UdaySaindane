@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Uday Saindane
 
-<!--
-**UdaySaindane/UdaySaindane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Engineering Student
+💻 Full Stack Developer | MERN & Java Enthusiast 🚀 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m passionate about building scalable web applications and exploring AI-integrated platforms. .I thrive on exploring new technologies and translating them into real-world projects.
+
+---
+
+## 🛠️ Skills
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap
+**Backend:** Python (Django), Node.js, Express.js, Spring Boot
+**Databases:** MongoDB, MySQL, Postgresql
+**Tools & Others:** Git, GitHub, Postman, Docker, VS Code
+
+---
+
+## 🌐 Connect with Me
+* **LinkedIn:** [https://linkedin.com/in/udaysaindane07]([https://linkedin.com/in/uday-saindane](https://www.linkedin.com/in/udaysaindane07))
+* **Email:** [udaysaindane3421@gmail.com](mailto:udaysaindane3421@gmail.com)
+---
+
+⭐ **Thanks for visiting my GitHub!** Feel free to explore my projects and connect with me for collaborations or opportunities.
+
+
