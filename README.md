@@ -1,10 +1,16 @@
+
+
 # 👋 Hi, I'm Uday Saindane
 
 ### Software Developer | Full Stack Developer | Java • Python • MERN
 
 🎓 Computer Engineering Graduate (2026) | **9.26 CGPA**
 
+🌐 **[Visit My Portfolio](https://udaysaindane-portfolio.netlify.app/)**
+
 I'm passionate about building web applications, backend systems, and practical software solutions.
+
+---
 
 ## 🚀 About Me
 
@@ -14,6 +20,8 @@ I'm passionate about building web applications, backend systems, and practical s
 - 🧪 Familiar with software testing, debugging, API testing, and SDLC practices.
 - ⚙️ Exploring DevOps, CI/CD, Docker, and cloud deployment.
 - 🎯 Interested in developing scalable, maintainable, and user-focused software.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -27,13 +35,15 @@ HTML5 • CSS3 • React.js • Bootstrap • Tailwind CSS
 Node.js • Express.js • Django • JSP • JDBC • REST APIs
 
 **Databases:**  
-MySQL • MongoDB • RDBMS • NoSQL
+MySQL • MongoDB
 
 **Tools & DevOps:**  
 Git • GitHub • Postman • Docker • GitHub Actions • CI/CD • Render
 
 **Core Concepts:**  
 Data Structures & Algorithms • OOP • DBMS • SDLC • Agile • Software Testing
+
+---
 
 ## 💡 Featured Projects
 
@@ -59,6 +69,8 @@ A Django-based Learning Management System for Students, Instructors, and Admins.
 
 🔗 [GitHub Repository](https://github.com/UdaySaindane/ScholarStudy)
 
+---
+
 ## 💼 Experience
 
 **Full Stack Developer Intern | NewGen Tech Pvt. Ltd.**  
@@ -69,6 +81,8 @@ A Django-based Learning Management System for Students, Instructors, and Admins.
 - Worked with Java MVC architecture and Apache Tomcat.
 - Performed testing, debugging, and database optimization.
 
+---
+
 ## 🎓 Education
 
 **B.E. – Computer Engineering**  
@@ -77,18 +91,22 @@ Savitribai Phule Pune University | 2022–2026
 
 **CGPA: 9.26 / 10**
 
+---
+
 ## 📜 Certifications
 
 - Full Stack Web Development – AICTE EduSkills (2024)
 - Introduction to Software Testing – Simplilearn (2026)
 
+---
+
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/udaysaindane07)
-- 🌐 [Portfolio](https://udaysaindane-portfolio.netlify.app/)
-- 📧 [Email](mailto:udaysaindane3421@gmail.com)
 - 💻 [GitHub](https://github.com/UdaySaindane)
+- 📧 [Email](mailto:udaysaindane3421@gmail.com)
 
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
